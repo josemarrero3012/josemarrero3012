@@ -1,8 +1,13 @@
 # José Manuel López Marrero
 
-Estoy en 2.º de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Villa de Agüimes, en Gran Canaria. Me gusta programar y sé que todavía me queda mucho por aprender, así que aquí voy subiendo lo que hago en clase y en mis propios proyectos.
+Estoy en 2.º de Desarrollo de Aplicaciones Multiplataforma (DAM) en el CIFP Villa de Agüimes, en Gran Canaria. Me gusta programar y sé que todavía me queda mucho por aprender, así que aquí voy subiendo lo que hago en clase y en mis propios proyectos.
 
-Me interesa mucho programar con ayuda de la inteligencia artificial, pero con criterio: intento pensar como un arquitecto de software, así que la estructura la decido yo y reviso todo lo que se genera.
+Tengo conocimientos avanzados de inteligencia artificial y la uso a diario para programar, pero con criterio: intento pensar como un arquitecto de software, así que la estructura la decido yo y reviso todo lo que se genera.
+
+## Experiencia
+
+**Prácticas en Smartbytes** · abril – junio de 2026  
+Prácticas de primer curso de DAM. Participé en dos proyectos: una aplicación de gestión de reparaciones para un taller informático y una aplicación de realidad aumentada.
 
 ## Proyectos
 
@@ -25,7 +30,10 @@ Prototipo de web que hice para Aterna Studio. Es para una perfumería nicho de T
 **[Calma Café](https://github.com/josemarrero3012/CalmaCafe)**  
 Otro prototipo para Aterna Studio, esta vez para una cafetería de Maspalomas, con la carta completa en cuatro idiomas y actualizada cada día. Hecha con Astro. [Ver el prototipo](https://josemarrero3012.github.io/CalmaCafe/)
 
-### Formación
+### Proyectos de clase
+
+**[Nexora · Filtros faciales, gestos y voz](https://github.com/josemarrero3012/Nexora---Filtros-faciales)**  
+App de escritorio en C# (WPF, MVVM) hecha en pareja: filtros faciales en tiempo real con OpenCV, control del ratón con gestos de la mano mediante un modelo ONNX y órdenes por voz.
 
 **[2-DAM](https://github.com/josemarrero3012/2-DAM)**  
 Mis apuntes y prácticas de clase.
