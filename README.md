@@ -6,16 +6,28 @@ Me interesa mucho programar con ayuda de la inteligencia artificial, pero con cr
 
 ## Proyectos
 
-**[Aterna Studio](https://github.com/josemarrero3012/AternaStudio)**
+### Webs realizadas
+
+**[Rumbo Norte](https://github.com/josemarrero3012/RumboNorte)**  
+Web que hice para Iván Guerra Arroyo, reclutador independiente de Rumbo Norte. Presenta su servicio, los destinos de trabajo en Europa y una guía para candidatos. Hecha con React, Node.js y Three.js. [Ver la demo](https://josemarrero3012.github.io/RumboNorte/) · [Web oficial](https://proyectoholanda.com)
+
+**[Aterna Studio](https://github.com/josemarrero3012/AternaStudio)**  
 Estoy mejorando la web de Aterna Studio, un estudio digital. Está hecha con Next.js y TypeScript, en español y en inglés. [Ver la web](https://josemarrero3012.github.io/AternaStudio/)
 
-**[The Fragrance Bar](https://github.com/josemarrero3012/TheFragrancerBar)**
+### Prototipos
+
+**[Bolaños — Escayolas y Reformas](https://github.com/josemarrero3012/Bola-os-Escayolas-Y-Pinturas)**  
+Prototipo de web para una empresa de escayola, pladur, pintura y reformas en Las Palmas de Gran Canaria, desarrollado para Aterna Studio. Incluye una portada y maquetas en 3D hechas con Blender y Three.js. Es una propuesta de presentación, pendiente de validación por el negocio. [Ver el prototipo](https://josemarrero3012.github.io/Bola-os-Escayolas-Y-Pinturas/)
+
+**[The Fragrance Bar](https://github.com/josemarrero3012/TheFragrancerBar)**  
 Prototipo de web que hice para Aterna Studio. Es para una perfumería nicho de Triana, con su catálogo y una tienda online de prueba. Hecha con HTML, CSS y JavaScript, sin frameworks. [Ver el prototipo](https://josemarrero3012.github.io/TheFragrancerBar/)
 
-**[Calma Café](https://github.com/josemarrero3012/CalmaCafe)**
+**[Calma Café](https://github.com/josemarrero3012/CalmaCafe)**  
 Otro prototipo para Aterna Studio, esta vez para una cafetería de Maspalomas, con la carta completa en cuatro idiomas y actualizada cada día. Hecha con Astro. [Ver el prototipo](https://josemarrero3012.github.io/CalmaCafe/)
 
-**[2-DAM](https://github.com/josemarrero3012/2-DAM)**
+### Formación
+
+**[2-DAM](https://github.com/josemarrero3012/2-DAM)**  
 Mis apuntes y prácticas de clase.
 
 ## Con qué trabajo
